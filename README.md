@@ -1,6 +1,5 @@
 # Hi there, I'm Himanshu Aswal! 👨💻
 
-[![Header](https://github.com/himanshuaswal/himanshuaswal/blob/main/assets/ai-banner.png)](https://himanshuaswal.me)
 
 ## 🚀 About Me
 
@@ -42,6 +41,6 @@ Final-year B.Tech CSE student passionate about:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshuaswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-aswal-093186271/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/himanshuaswal)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswalh0707@gmail.com)
