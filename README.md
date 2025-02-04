@@ -1,59 +1,47 @@
-# Repository Setup for README Automation
+# Hi there, I'm Himanshu Aswal! 👨💻
 
----
+[![Header](https://github.com/himanshuaswal/himanshuaswal/blob/main/assets/ai-banner.png)](https://himanshuaswal.me)
 
-## About Me
+## 🚀 About Me
 
-- **Name**: Himanshu Aswal
-- **Background**: Final-year B.Tech Computer Science student with a passion for AI, full-stack development, and problem-solving.
-- **Interests**: Machine Learning, Blockchain, AI-powered automation, and Open Source.
+Final-year B.Tech CSE student passionate about:
+- 🤖 AI & Machine Learning
+- ⛓️ Blockchain Technology
+- 🧩 Full-Stack Development
+- 🛠️ Building Intelligent Automation
 
----
+## 🔧 Tech Stack
 
-## Recent Projects
-<!-- Add dynamic content -->
-<!-- recent_releases starts -->
-1. **[Skin Disease Prediction App](https://github.com/himanshu/skin_disease_prediction)**: A machine learning application for diagnosing skin conditions.  
-2. **[Deepfake Detection](https://github.com/himanshu/deepfake-detection-client)**: A Flask-based tool for identifying deepfakes with MesoNet.  
-3. **[Badminton Sprint Tracker](https://github.com/himanshu/badminton-sprint-tracker)**: A fitness analysis tool for athletes.  
-<!-- recent_releases ends -->
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![](https://img.shields.io/badge/Blockchain-3D3D3D?logo=hyperledger&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
----
+## 🏆 Recent Projects
 
-## Blog Highlights
-<!-- Add dynamic content -->
+<!-- recent_projects starts -->
+1. **[Skin Disease Prediction](https://github.com/himanshu/skin_disease_prediction)** - ML-powered diagnostic tool  
+2. **[Deepfake Detection](https://github.com/himanshu/deepfake-detection-client)** - MesoNet implementation in Flask  
+3. **[Badminton Sprint Tracker](https://github.com/himanshu/badminton-sprint-tracker)** - Athlete performance analyzer  
+<!-- recent_projects ends -->
+
+## ✍️ Blog Highlights
+
 <!-- blog starts -->
-1. **"Building Himu AI: A Voice-Controlled PC Assistant"**  
-2. **"Predicting Monkeypox: Insights into Skin Disease Detection"**  
-3. **"Deepfake Detection: Challenges and Solutions"**  
+1. **[Building Himu AI](https://yourblog.com/himu-ai)** - Voice-controlled PC assistant  
+2. **[Predicting Monkeypox](https://yourblog.com/skin-disease)** - Medical ML insights  
+3. **[Deepfake Detection](https://yourblog.com/deepfake)** - Security solutions  
 <!-- blog ends -->
 
----
+## 📈 GitHub Stats
 
-## Weekly Inspirations
-<!-- Add dynamic content -->
-<!-- weekly starts -->
-1. **"Why Decentralized AI is the Future"**  
-2. **"Top Tools for Blockchain Development in 2025"**  
-<!-- weekly ends -->
+[![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshuaswal&show_icons=true&theme=radical)](https://github.com/himanshuaswal)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuaswal&layout=compact&theme=radical)](https://github.com/himanshuaswal)
 
-## Contact Me
+## 📫 Let's Connect
 
-Feel free to connect:
-- **Email**: [aswalh0707@gmail.com](mailto:aswalh0707@gmail.com)
-- **LinkedIn**: [linkedin.com/in/himanshuaswal](https://linkedin.com/in/himanshuaswal)
-- **Twitter**: [@himanshuaswal](https://twitter.com/himanshuaswal)
-
----
-
-### Key Changes Needed:
-1. **Personal Branding**: Replace references to "Tw93" with your own name and identity. For example, update `README.md`, `index.html`, and any project description that mentions "Tw93".
-2. **Directory Name**: Update `tw93-tw93/` to something like `himanshu-portfolio/`.
-3. **Image and Links**: Replace external references such as `https://static.tw93.fun/pic/1.png` with your own hosted images or links.
-4. **Dynamic Sections**: In `build_readme.py`, adapt the data sources (`graphql`, `rss.xml`, `feed.xml`) to fetch your project's releases, blog posts, and inspirations.
-5. **Languages and Skills**: Update mentions of "Swift / Rust" in `index.html` to reflect your skillset, like Python, JavaScript, or other tools.
-6. **Scripts**: Modify `fetch_weekly`, `fetch_releases`, and `fetch_blog_entries` to source content related to your blog or project feeds.
-
-Would you like me to edit these files for you, or should I assist with specific parts of this process?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshuaswal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/himanshuaswal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswalh0707@gmail.com)
