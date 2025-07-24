@@ -25,9 +25,10 @@ Markdown      0 secs        ░░░░░░░░░░░░░░░░░�
 
 ---
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=algolia)
-![GitHub Streak](https://streak-stats.demolab.com?user=LAWSA07&theme=algolia)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWSA07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=LAWSA07&theme=red)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWSA07&theme=red)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=radical&bg_color=ff003c&text_color=ffffff&title_color=ffffff)
 
 ---
 
