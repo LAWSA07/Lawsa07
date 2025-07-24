@@ -14,7 +14,7 @@
 ---
 
 ```
-TypeScript   19 hrs 4 mins   ████████████████████████▓   98.97 %
+TypeScript   19 hrs 4 mins  ████████████████████████▓   98.97 %
 PYTHON       11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 C++           1 hrs         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 JSX           0 secs        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
@@ -23,10 +23,6 @@ Markdown      0 secs        ░░░░░░░░░░░░░░░░░�
 
 ---
 
----
-
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=radical&bg_color=ff003c&text_color=ffffff&title_color=ffffff)
 
 ---
 
@@ -113,6 +109,10 @@ Explore the projects and code samples in this repository. For specific project i
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LAWSA07/Lawsa07/issues) or submit a pull request.
+
+---
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=radical&bg_color=ff003c&text_color=ffffff&title_color=ffffff)
 
 ---
 
