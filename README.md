@@ -83,17 +83,6 @@ Passionate about designing intelligent solutions and building efficient web appl
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=algolia&bg_color=000000&text_color=00FF00&title_color=00FF00)
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LAWSA07/Lawsa07/issues) or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
