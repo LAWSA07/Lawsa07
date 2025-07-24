@@ -74,6 +74,8 @@ Passionate about designing intelligent solutions and building efficient web appl
 | 🧠 [CompileAI](https://github.com/LAWSA07/CompileAI) | AI-based C compiler and smart IDE.<br>Features code refactoring, syntax highlighting, one-click compilation, assembly viewer, and educational tools for learning compiler concepts. | C, JavaScript, HTML |
 | 📊 [JOBIFY](https://github.com/LAWSA07/JOBIFY) | Job tracking app.<br>Web dashboard for managing job applications, status tracking, and analytics. | JavaScript, CSS, HTML |
 | 🪪 [ProFel](https://github.com/LAWSA07/ProFel) | AI-powered digital profile analyzer for developers.<br>Aggregates and analyzes GitHub, LinkedIn, and coding platform profiles, provides skill insights, and matches to jobs. | Python, JavaScript, Flask, React |
+| 🐚 [Custom-Shell](https://github.com/LAWSA07/Custom-Shell) | Linux-based custom shell.<br>Advanced process and file management, background jobs, history, piping, and more. | C, JavaScript, HTML |
+| 🌱 [Agricultural-Sustainability-Advisor](https://github.com/LAWSA07/Agricultural-Sustainability-Advisor) | Multi-agent system for farm sustainability.<br>Uses context from custom datasets (farmer's personal), supports both online and offline features for actionable advice. | Python, AI, Data Science |
 
 ---
 
