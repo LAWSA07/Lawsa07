@@ -1,11 +1,5 @@
 ![lawsa banner](public/lawsa.png)
 
-<p align="center">
-  <a href="https://github.com/LAWSA07/Lawsa07"><img src="https://img.shields.io/github/stars/LAWSA07/Lawsa07?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/LAWSA07/Lawsa07"><img src="https://img.shields.io/github/forks/LAWSA07/Lawsa07?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/LAWSA07/Lawsa07/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LAWSA07/Lawsa07?color=lime" alt="License"></a>
-  <a href="https://github.com/LAWSA07"><img src="https://img.shields.io/badge/Author-LAWSA07-lime" alt="Author"></a>
-</p>
 
 # 👋 Hi, I'm Himanshu Aswal (LAWSA07)
 
@@ -20,11 +14,6 @@ C++           1 hrs         ░░░░░░░░░░░░░░░░░�
 JSX           0 secs        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Markdown      0 secs        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-
----
-
-
----
 
 ---
 
@@ -103,6 +92,7 @@ Explore the projects and code samples in this repository. For specific project i
 ## 📈 GitHub Stats
 
 ![LAWSA07's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=algolia&bg_color=000000&text_color=00FF00&title_color=00FF00)
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=algolia&bg_color=000000&text_color=00FF00&title_color=00FF00)
 
 ---
@@ -110,10 +100,6 @@ Explore the projects and code samples in this repository. For specific project i
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LAWSA07/Lawsa07/issues) or submit a pull request.
-
----
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAWSA07&layout=compact&theme=radical&bg_color=ff003c&text_color=ffffff&title_color=ffffff)
 
 ---
 
@@ -124,6 +110,13 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/LAWSA07/Lawsa07"><img src="https://img.shields.io/github/stars/LAWSA07/Lawsa07?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/LAWSA07/Lawsa07"><img src="https://img.shields.io/github/forks/LAWSA07/Lawsa07?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/LAWSA07/Lawsa07/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LAWSA07/Lawsa07?color=lime" alt="License"></a>
+  <a href="https://github.com/LAWSA07"><img src="https://img.shields.io/badge/Author-LAWSA07-lime" alt="Author"></a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-aswal-093186271/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/himanshuaswal)
