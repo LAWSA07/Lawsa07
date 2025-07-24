@@ -76,12 +76,12 @@ Explore the projects and code samples in this repository. For specific project i
 ## 📂 Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection) | Detects deepfake media using advanced AI models | Roff |
-| [medResAI](https://github.com/LAWSA07/medResAI) | End-to-end web solution for drug discovery predictions | TypeScript |
-| [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection) | Detects plagiarism in assignments/exams with zero false positives | JavaScript |
-| [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation) | No-code agentic web automation platform | Python |
-| [Co-PILOT](https://github.com/LAWSA07/Co-PILOT) | Smart interview & meeting assistant for productivity | Python |
+|--------|-------------|-------|
+| 🤖 [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection) | Detects deepfake media using advanced AI models.\<br>Features real-time video analysis, robust detection pipeline, and user-friendly reporting. | Roff |
+| 💊 [medResAI](https://github.com/LAWSA07/medResAI) | End-to-end web solution for drug discovery predictions.\<br>Integrates AI-driven analytics, molecular property prediction, and interactive dashboards for researchers. | TypeScript |
+| 📚 [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection) | Detects plagiarism in assignments/exams with zero false positives.\<br>Supports multiple file formats, instant similarity scoring, and detailed result breakdowns. | JavaScript |
+| ⚙️ [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation) | No-code agentic web automation platform.\<br>Automates repetitive browser tasks, supports custom workflows, and offers a drag-and-drop interface. | Python |
+| 🧑‍💼 [Co-PILOT](https://github.com/LAWSA07/Co-PILOT) | Smart interview & meeting assistant for productivity.\<br>Provides real-time transcription, AI-powered note-taking, and actionable meeting summaries. | Python |
 
 ---
 
