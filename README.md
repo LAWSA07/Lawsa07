@@ -75,14 +75,13 @@ Explore the projects and code samples in this repository. For specific project i
 
 ## 📂 Projects
 
-### AI & ML
-- [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection): Detects deepfake media using advanced AI models. *Tech:* Roff
-- [medResAI](https://github.com/LAWSA07/medResAI): End-to-end web solution for drug discovery predictions. *Tech:* TypeScript
-
-### Web Development
-- [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection): Detects plagiarism in assignments and exams with no false positives. *Tech:* JavaScript
-- [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation): No-code agentic web automation platform. *Tech:* Python
-- [Co-PILOT](https://github.com/LAWSA07/Co-PILOT): Smart interview and meeting assistant for productivity. *Tech:* Python
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection) | Detects deepfake media using advanced AI models | Roff |
+| [medResAI](https://github.com/LAWSA07/medResAI) | End-to-end web solution for drug discovery predictions | TypeScript |
+| [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection) | Detects plagiarism in assignments/exams with zero false positives | JavaScript |
+| [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation) | No-code agentic web automation platform | Python |
+| [Co-PILOT](https://github.com/LAWSA07/Co-PILOT) | Smart interview & meeting assistant for productivity | Python |
 
 ---
 
