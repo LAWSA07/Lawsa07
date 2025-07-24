@@ -1,7 +1,7 @@
 ![lawsa banner](public/lawsa.png)
 
 
-# 👋 Hi, I'm Himanshu Aswal (LAWSA07)
+# 👋 Hi, I'm Himanshu Aswal
 
 > **Final-year B.Tech CSE student | AI & ML | Web Development**
 
