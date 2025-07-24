@@ -32,21 +32,6 @@ Passionate about designing intelligent solutions and building efficient web appl
 
 ---
 
-## 🚀 Quick Start
-
-Clone the repo:
-```bash
-git clone https://github.com/LAWSA07/Lawsa07.git
-```
-
----
-
-## 💡 Usage
-
-Explore the projects and code samples in this repository. For specific project instructions, see the respective project folders or README sections below.
-
----
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -81,11 +66,14 @@ Explore the projects and code samples in this repository. For specific project i
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection) | Detects deepfake media using advanced AI models.\<br>Features real-time video analysis, robust detection pipeline, and user-friendly reporting. | Roff |
-| 💊 [medResAI](https://github.com/LAWSA07/medResAI) | End-to-end web solution for drug discovery predictions.\<br>Integrates AI-driven analytics, molecular property prediction, and interactive dashboards for researchers. | TypeScript |
-| 📚 [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection) | Detects plagiarism in assignments/exams with zero false positives.\<br>Supports multiple file formats, instant similarity scoring, and detailed result breakdowns. | JavaScript |
-| ⚙️ [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation) | No-code agentic web automation platform.\<br>Automates repetitive browser tasks, supports custom workflows, and offers a drag-and-drop interface. | Python |
-| 🧑‍💼 [Co-PILOT](https://github.com/LAWSA07/Co-PILOT) | Smart interview & meeting assistant for productivity.\<br>Provides real-time transcription, AI-powered note-taking, and actionable meeting summaries. | Python |
+| 🤖 [DeepFake-Detection](https://github.com/LAWSA07/DeepFake-Detection) | Detects deepfake media using advanced AI models.<br>Features real-time video analysis, robust detection pipeline, and user-friendly reporting. | Python |
+| 💊 [medResAI](https://github.com/LAWSA07/medResAI) | End-to-end web solution for drug discovery predictions.<br>Integrates AI-driven analytics, molecular property prediction, and interactive dashboards for researchers. | Machine Learning |
+| 📚 [Assignment-Plagarism-Detection](https://github.com/LAWSA07/Assignment-Plagarism-Detection) | Detects plagiarism in assignments/exams with zero false positives.<br>Supports multiple file formats, instant similarity scoring, and detailed result breakdowns. | JavaScript |
+| ⚙️ [LAWSA-Automation](https://github.com/LAWSA07/LAWSA-Automation) | No-code agentic web automation platform.<br>Automates repetitive browser tasks, supports custom workflows, and offers a drag-and-drop interface. | Python |
+| 🧑‍💼 [Co-PILOT](https://github.com/LAWSA07/Co-PILOT) | Smart interview & meeting assistant for productivity.<br>Provides real-time transcription, AI-powered note-taking, and actionable meeting summaries. | Python |
+| 🧠 [CompileAI](https://github.com/LAWSA07/CompileAI) | AI-based C compiler and smart IDE.<br>Features code refactoring, syntax highlighting, one-click compilation, assembly viewer, and educational tools for learning compiler concepts. | C, JavaScript, HTML |
+| 📊 [JOBIFY](https://github.com/LAWSA07/JOBIFY) | Job tracking app.<br>Web dashboard for managing job applications, status tracking, and analytics. | JavaScript, CSS, HTML |
+| 🪪 [ProFel](https://github.com/LAWSA07/ProFel) | AI-powered digital profile analyzer for developers.<br>Aggregates and analyzes GitHub, LinkedIn, and coding platform profiles, provides skill insights, and matches to jobs. | Python, JavaScript, Flask, React |
 
 ---
 
