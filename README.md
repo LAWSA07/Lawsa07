@@ -13,18 +13,19 @@
 
 ---
 
-## 📑 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [GitHub Stats](#github-stats)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Credits](#credits)
+```
+TypeScript   19 hrs 4 mins   ████████████████████████▓   98.97 %
+PYTHON       11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+C++           1 hrs         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSX           0 secs        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown      0 secs        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+---
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=algolia)
+![GitHub Streak](https://streak-stats.demolab.com?user=LAWSA07&theme=algolia)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWSA07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
