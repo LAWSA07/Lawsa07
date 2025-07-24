@@ -1,4 +1,4 @@
-![lawsa banner](public/lawsa.png)
+![lawsa banner](lawsa.png)
 
 
 # 👋 Hi, I'm Himanshu Aswal
