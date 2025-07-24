@@ -76,6 +76,7 @@ Passionate about designing intelligent solutions and building efficient web appl
 | 🪪 [ProFel](https://github.com/LAWSA07/ProFel) | AI-powered digital profile analyzer for developers.<br>Aggregates and analyzes GitHub, LinkedIn, and coding platform profiles, provides skill insights, and matches to jobs. | Python, JavaScript, Flask, React |
 | 🐚 [Custom-Shell](https://github.com/LAWSA07/Custom-Shell) | Linux-based custom shell.<br>Advanced process and file management, background jobs, history, piping, and more. | C, JavaScript, HTML |
 | 🌱 [Agricultural-Sustainability-Advisor](https://github.com/LAWSA07/Agricultural-Sustainability-Advisor) | Multi-agent system for farm sustainability.<br>Uses context from custom datasets (farmer's personal), supports both online and offline features for actionable advice. | Python, AI, Data Science |
+| 🛡️ [NEURASHIELD](https://github.com/LAWSA07/NEURASHIELD) | Cybersecurity Threat Detection System is a full-stack platform for real-time monitoring, detection, and visualization of cybersecurity threats.<br>It leverages AI/ML models for advanced threat analysis and provides a modern, interactive dashboard for security teams. | Python, JavaScript, FastAPI, React, Tailwind CSS, ML |
 
 ---
 
