@@ -23,9 +23,13 @@ Markdown      0 secs        ░░░░░░░░░░░░░░░░░�
 
 ---
 
+---
+
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07&show_icons=true&theme=algolia)
 ![GitHub Streak](https://streak-stats.demolab.com?user=LAWSA07&theme=algolia)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWSA07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ---
 
