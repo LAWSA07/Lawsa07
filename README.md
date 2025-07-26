@@ -1,5 +1,7 @@
 ![lawsa banner](lawsa.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAWSA07)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 👋 Hi, I'm Himanshu Aswal
 
