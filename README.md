@@ -78,6 +78,11 @@ Passionate about designing intelligent solutions and building efficient web appl
 | 🐚 [Custom-Shell](https://github.com/LAWSA07/Custom-Shell) | Linux-based custom shell.<br>Advanced process and file management, background jobs, history, piping, and more. | C, JavaScript, HTML |
 | 🌱 [Agricultural-Sustainability-Advisor](https://github.com/LAWSA07/Agricultural-Sustainability-Advisor) | Multi-agent system for farm sustainability.<br>Uses context from custom datasets (farmer's personal), supports both online and offline features for actionable advice. | Python, AI, Data Science , crewai , langgraph , langchain |
 | 🛡️ [NEURASHIELD](https://github.com/LAWSA07/NEURASHIELD) | Cybersecurity Threat Detection System is a full-stack platform for real-time monitoring, detection, and visualization of cybersecurity threats.<br>It leverages AI/ML models for advanced threat analysis and provides a modern, interactive dashboard for security teams. | Python, JavaScript, FastAPI, React, Tailwind CSS, ML |
+| 🚀 [TEAMOPTIMIZER](https://github.com/LAWSA07/TeamOptimizer) | AI-Driven Team Formation System is a full-stack platform for intelligent team composition, optimization, and management.<br>It leverages AI/ML algorithms for optimal team formation based on skills, workload, and chemistry, providing a modern dashboard for HR teams and project managers. | Python, JavaScript, FastAPI, React, Chakra UI, MongoDB, AI/ML |
+
+An intelligent team formation system that uses AI to optimize team composition based on skills, workload, and chemistry.
+
+// ... existing code ...
 
 ---
 
