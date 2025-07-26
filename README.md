@@ -80,10 +80,6 @@ Passionate about designing intelligent solutions and building efficient web appl
 | 🛡️ [NEURASHIELD](https://github.com/LAWSA07/NEURASHIELD) | Cybersecurity Threat Detection System is a full-stack platform for real-time monitoring, detection, and visualization of cybersecurity threats.<br>It leverages AI/ML models for advanced threat analysis and provides a modern, interactive dashboard for security teams. | Python, JavaScript, FastAPI, React, Tailwind CSS, ML |
 | 🚀 [TEAMOPTIMIZER](https://github.com/LAWSA07/TeamOptimizer) | AI-Driven Team Formation System is a full-stack platform for intelligent team composition, optimization, and management.<br>It leverages AI/ML algorithms for optimal team formation based on skills, workload, and chemistry, providing a modern dashboard for HR teams and project managers. | Python, JavaScript, FastAPI, React, Chakra UI, MongoDB, AI/ML |
 
-An intelligent team formation system that uses AI to optimize team composition based on skills, workload, and chemistry.
-
-// ... existing code ...
-
 ---
 
 ## 📈 GitHub Stats
